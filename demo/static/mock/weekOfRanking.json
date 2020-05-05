@@ -1,0 +1,49 @@
+{
+  "code": 200,
+  "message": "查询成功",
+  "data": {
+    "totalVistis": 6577514,
+    "list": [
+      {
+        "serviceName": "社保查询",
+        "visitNum": 94344
+      },
+      {
+        "serviceName": "身份证",
+        "visitNum": 82432
+      },
+      {
+        "serviceName": "机动车违章",
+        "visitNum": 47131
+      },
+      {
+        "serviceName": "公积金",
+        "visitNum": 43698
+      },
+      {
+        "serviceName": "我的证照 ",
+        "visitNum": 30879
+      },
+      {
+        "serviceName": "医保机构",
+        "visitNum": 27611
+      },
+      {
+        "serviceName": "邀请好友",
+        "visitNum": 19691
+      },
+      {
+        "serviceName": "服务消息",
+        "visitNum": 13675
+      },
+      {
+        "serviceName": "电子社保卡",
+        "visitNum": 12447
+      },
+      {
+        "serviceName": "驾驶证",
+        "visitNum": 11857
+      }
+    ]
+  }
+}

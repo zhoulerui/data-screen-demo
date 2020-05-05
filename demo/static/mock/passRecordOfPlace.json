@@ -1,0 +1,28 @@
+{
+    "code": 200,
+    "message": "查询成功",
+    "data": {
+        "placesForDivisions": [
+            {
+                "number": 27,
+                "countName": "天心区",
+                "count": 160.7
+            },
+            {
+                "number": 68,
+                "countName": "岳麓区",
+                "count": 100
+            },
+            {
+                "number": 100,
+                "countName": "芙蓉区",
+                "count": 130
+            },
+            {
+                "number": 50,
+                "countName": "望城区",
+                "count": 80
+            }
+        ]
+    }
+}

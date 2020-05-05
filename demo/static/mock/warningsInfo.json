@@ -1,0 +1,181 @@
+{
+    "code": 200,
+    "message": "查询成功",
+    "userWarningsInfo": [
+        {
+            "dtime": "2020-04-24",
+            "list": [
+                {
+                    "ruleProperty": "isPatient",
+                    "warnings_number": 200
+                },
+                {
+                    "ruleProperty": "temperature",
+                    "warnings_number": 200
+                },
+                {
+                    "ruleProperty": "outLive",
+                    "warnings_number": 200
+                },
+                {
+                    "ruleProperty": "contact_patient",
+                    "warnings_number": 200
+                },
+                {
+                    "ruleProperty": "contact_outLive",
+                    "warnings_number": 200
+                }
+            ]
+        },
+        {
+            "dtime": "2020-04-25",
+            "list": [
+                {
+                    "ruleProperty": "isPatient",
+                    "warnings_number": 300
+                },
+                {
+                    "ruleProperty": "temperature",
+                    "warnings_number": 300
+                },
+                {
+                    "ruleProperty": "outLive",
+                    "warnings_number": 400
+                },
+                {
+                    "ruleProperty": "contact_patient",
+                    "warnings_number": 500
+                },
+                {
+                    "ruleProperty": "contact_outLive",
+                    "warnings_number": 200
+                }
+            ]
+        },
+        {
+            "dtime": "2020-04-26",
+            "list": [
+                {
+                    "ruleProperty": "isPatient",
+                    "warnings_number": 200
+                },
+                {
+                    "ruleProperty": "temperature",
+                    "warnings_number": 200
+                },
+                {
+                    "ruleProperty": "outLive",
+                    "warnings_number": 200
+                },
+                {
+                    "ruleProperty": "contact_patient",
+                    "warnings_number": 100
+                },
+                {
+                    "ruleProperty": "contact_outLive",
+                    "warnings_number": 400
+                }
+            ]
+        },
+        {
+            "dtime": "2020-04-27",
+            "list": [
+                {
+                    "ruleProperty": "isPatient",
+                    "warnings_number": 200
+                },
+                {
+                    "ruleProperty": "temperature",
+                    "warnings_number": 200
+                },
+                {
+                    "ruleProperty": "outLive",
+                    "warnings_number": 200
+                },
+                {
+                    "ruleProperty": "contact_patient",
+                    "warnings_number": 200
+                },
+                {
+                    "ruleProperty": "contact_outLive",
+                    "warnings_number": 200
+                }
+            ]
+        },
+        {
+            "dtime": "2020-04-28",
+            "list": [
+                {
+                    "ruleProperty": "isPatient",
+                    "warnings_number": 200
+                },
+                {
+                    "ruleProperty": "temperature",
+                    "warnings_number": 500
+                },
+                {
+                    "ruleProperty": "outLive",
+                    "warnings_number": 200
+                },
+                {
+                    "ruleProperty": "contact_patient",
+                    "warnings_number": 400
+                },
+                {
+                    "ruleProperty": "contact_outLive",
+                    "warnings_number": 200
+                }
+            ]
+        },
+        {
+            "dtime": "2020-04-29",
+            "list": [
+                {
+                    "ruleProperty": "isPatient",
+                    "warnings_number": 200
+                },
+                {
+                    "ruleProperty": "temperature",
+                    "warnings_number": 200
+                },
+                {
+                    "ruleProperty": "outLive",
+                    "warnings_number": 300
+                },
+                {
+                    "ruleProperty": "contact_patient",
+                    "warnings_number": 600
+                },
+                {
+                    "ruleProperty": "contact_outLive",
+                    "warnings_number": 200
+                }
+            ]
+        },
+        {
+            "dtime": "2020-04-30",
+            "list": [
+                {
+                    "ruleProperty": "isPatient",
+                    "warnings_number": 200
+                },
+                {
+                    "ruleProperty": "temperature",
+                    "warnings_number": 600
+                },
+                {
+                    "ruleProperty": "outLive",
+                    "warnings_number": 200
+                },
+                {
+                    "ruleProperty": "contact_patient",
+                    "warnings_number": 600
+                },
+                {
+                    "ruleProperty": "contact_outLive",
+                    "warnings_number": 600
+                }
+            ]
+        }
+    ]
+}
